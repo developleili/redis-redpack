@@ -15,8 +15,6 @@ import java.util.concurrent.CountDownLatch;
  **/
 public class GenRedPack {
 
-
-
     /**
      * 多线程模拟红包池初始化
      */

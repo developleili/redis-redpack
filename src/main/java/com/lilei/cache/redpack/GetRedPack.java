@@ -14,8 +14,6 @@ import java.util.concurrent.CountDownLatch;
  * @Version 1.0
  **/
 public class GetRedPack {
-
-
     /**
      * 多线程模拟用户抢红包
      */
